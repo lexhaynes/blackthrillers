@@ -1,8 +1,8 @@
 {
-    "name": "casper",
-    "description": "The default personal blogging theme for Ghost. Beautiful, minimal and responsive.",
-    "demo": "https://demo.ghost.io",
-    "version": "2.1.9",
+    "name": "blackthrillers",
+    "description": "Black Thrillers blog: mystery, suspense, and thriller novels written by black authors.",
+    "demo": "https://blackthrillers.com",
+    "version": "0.0.1",
     "engines": {
         "ghost": ">=1.2.0"
     },
@@ -12,9 +12,7 @@
         "mobile": "assets/screenshot-mobile.jpg"
     },
     "author": {
-        "name": "Ghost Foundation",
-        "email": "hello@ghost.org",
-        "url": "https://ghost.org"
+        "name": "Alexandra Haynes",
     },
     "gpm": {
         "type": "theme",
@@ -29,10 +27,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/TryGhost/Casper.git"
+        "url": "https://github.com/lexhaynes/blackthrillers.git"
     },
-    "bugs": "https://github.com/TryGhost/Casper/issues",
-    "contributors": "https://github.com/TryGhost/Casper/graphs/contributors",
+    "bugs": "https://github.com/lexhaynes/blackthrillers/issues",
+    "contributors": "https://github.com/lexhaynes/blackthrillers/graphs/contributors",
     "devDependencies": {
         "autoprefixer": "6.3.6",
         "cssnano": "3.7.1",
